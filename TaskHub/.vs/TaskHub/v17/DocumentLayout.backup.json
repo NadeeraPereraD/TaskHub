@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\TaskHub\\TaskHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\controllers\\getdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:controllers\\getdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\helper\\dbtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:helper\\dbtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\helper\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:helper\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\helper\\getdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:helper\\getdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\helper\\igetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:helper\\igetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\model\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:model\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|d:\\git\\taskhub\\taskhub\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D460301-9145-4730-9C22-F0AB55367428}|TaskHub.csproj|solutionrelative:model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetDataController.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Controllers\\GetDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GetDataController.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Controllers\\GetDataController.cs*",
+              "RelativeToolTip": "Controllers\\GetDataController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:52:22.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetData.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\GetData.cs",
+              "RelativeDocumentMoniker": "Helper\\GetData.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\GetData.cs",
+              "RelativeToolTip": "Helper\\GetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:09:57.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGetData.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\IGetData.cs",
+              "RelativeDocumentMoniker": "Helper\\IGetData.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\IGetData.cs",
+              "RelativeToolTip": "Helper\\IGetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:04:36.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:58:19.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBTransaction.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\DBTransaction.cs",
+              "RelativeDocumentMoniker": "Helper\\DBTransaction.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\DBTransaction.cs",
+              "RelativeToolTip": "Helper\\DBTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:52:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\Connection.cs",
+              "RelativeDocumentMoniker": "Helper\\Connection.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Helper\\Connection.cs",
+              "RelativeToolTip": "Helper\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:48:56.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Model\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Model\\TaskModel.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Model\\TaskModel.cs",
+              "RelativeToolTip": "Model\\TaskModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:42:56.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectModel.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Model\\ProjectModel.cs",
+              "RelativeDocumentMoniker": "Model\\ProjectModel.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Model\\ProjectModel.cs",
+              "RelativeToolTip": "Model\\ProjectModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:40:40.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Model\\UserModel.cs",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Model\\UserModel.cs",
+              "RelativeToolTip": "Model\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:37:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T04:25:45.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
