@@ -50,17 +50,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GetDataController.cs",
               "DocumentMoniker": "D:\\GIT\\TaskHub\\TaskHub\\Controllers\\GetDataController.cs",
               "RelativeDocumentMoniker": "Controllers\\GetDataController.cs",
-              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Controllers\\GetDataController.cs*",
-              "RelativeToolTip": "Controllers\\GetDataController.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ToolTip": "D:\\GIT\\TaskHub\\TaskHub\\Controllers\\GetDataController.cs",
+              "RelativeToolTip": "Controllers\\GetDataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T09:52:22.356Z",
               "EditorCaption": ""
